@@ -1,0 +1,23 @@
+{
+  "name": "system-client-quicktart",
+  "version": "1.0.0",
+  "description": "Client template project for System Designer",
+  "main": "web/index.html",
+  "license": "CC0-1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/system-sdk/system-client-quickstart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/system-sdk/system-client-quickstart/issues"
+  },
+  "author": {
+    "name": "erwan carriou",
+    "twitter": "@ecarriou"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.1.0",
+    "grunt-contrib-connect": "^1.0.0"
+  }
+}

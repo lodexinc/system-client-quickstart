@@ -1,0 +1,22 @@
+{
+    "name": "system-client-quickstart",
+    "version": "1.0.0",
+    "description": "Client template project for System Designer",
+    "main": "web/index.html",
+    "author": {
+        "name": "erwan carriou",
+        "email": "erwan.carriou@mac.com",
+        "twitter": "@ecarriou"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/system-sdk/system-client-quickstart.git"
+    },
+    "bugs": {
+        "url": "https://github.com/system-sdk/system-client-quickstart/issues"
+    },
+    "license": "CC0-1.0",
+    "devDependencies": {
+        "system-runtime": "~1.6.3"
+    }
+}
