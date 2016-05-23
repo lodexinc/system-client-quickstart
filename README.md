@@ -1,4 +1,4 @@
-# system-cl-quientickstart
+# system-client-quickstart
 
 This is a minimal project to start a client app system.
 
