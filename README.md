@@ -25,6 +25,8 @@ $ grunt start
 * select *Client-side* as value for *Type of debugging*,
 * set `http://localhost:9001/index.html` as value for *Url of the page to debug*,
 * click on the debug button,
+* the web page will be opened in a new window,
+* click again on the debug button,
 * a panel *A system has been found* is shown
 * click on *OK*.
 
