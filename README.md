@@ -30,7 +30,7 @@ $ grunt start
 
 The system running in node will be then imported in [System Designer](https://system-designer.github.io).
 
-All your modifications to the current system in [System Designer](https://system-designer.github.io) will be injected into web page. 
+All your modifications to the current system in [System Designer](https://system-designer.github.io) will be injected into the web page. 
 
 ## Licence
 
