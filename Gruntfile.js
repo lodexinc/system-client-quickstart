@@ -10,13 +10,22 @@ module.exports = function (grunt) {
                     base: 'web'
                 }
             }
+        },
+        copy: {
+            systemruntime: {
+                src: 'bower_components/system-runtime/dist/system-runtime.min.js',
+                dest: 'web/lib/system-runtime.min.js'
+            }
         }
     });
 
+    // register tasks
+    grunt.loadNpmTasks('grunt-contrib-copy');
     grunt.loadNpmTasks('grunt-contrib-connect');
 
     // run server
-    grunt.registerTask('start',
+    grunt.registerTask('start', [
+        'copy:systemruntime',
         'connect:server'
-    );
+    ]);
 };
