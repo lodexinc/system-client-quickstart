@@ -1,6 +1,6 @@
 {
     "name": "system-client-quickstart",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Client template project for System Designer",
     "main": "web/index.html",
     "author": {
@@ -17,6 +17,6 @@
     },
     "license": "CC0-1.0",
     "devDependencies": {
-        "system-runtime": "~1.6.3"
+        "system-runtime": "~1.7.0"
     }
 }
