@@ -1,6 +1,6 @@
 {
   "name": "system-client-quicktart",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Client template project for System Designer",
   "main": "web/index.html",
   "license": "CC0-1.0",
